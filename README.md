@@ -1,3 +1,5 @@
+![logo](https://github.com/anushka120302/anushka120302/blob/main/JAVA%20DEVELOPER.png)
+
 <h1 align="center">Hi 👋, I'm Anushka Agarwal</h1>
 <h3 align="center">I am a passionate Java Developer and a Software Engineer from India.</h3>
 
