@@ -18,13 +18,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anushka_120302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anushka_120302" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anushka agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushka agarwal" height="30" width="40" /></a>
-<a href="https://kaggle.com/anushka agarwal125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anushka agarwal125" height="30" width="40" /></a>
-<a href="https://instagram.com/anushka_agarwal__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anushka_agarwal__" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anushka_2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anushka_2002" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anushka_agarwal6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anushka_agarwal6" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anushka_agarwal__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anushka_agarwal__" height="30" width="40" /></a>
+<a href="https://twitter.com/anushka_120302" target="blank"><img align="center" src="https://user-images.githubusercontent.com/87578160/211143570-87bbe4a1-71e7-4d72-91a2-c6053ddcd1d2.png" alt="anushka_120302" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anushka agarwal" target="blank"><img align="center" src="https://user-images.githubusercontent.com/87578160/211143593-a1993ae8-0928-4d21-b40d-5b803cf67aa1.png" alt="anushka agarwal" height="30" width="40" /></a>
+<a href="https://kaggle.com/anushka agarwal125" target="blank"><img align="center" src="https://user-images.githubusercontent.com/87578160/211143612-41eecd59-acdc-4d84-9b02-9a790c42efa6.png" alt="anushka agarwal125" height="30" width="40" /></a>
+<a href="https://instagram.com/anushka_agarwal__" target="blank"><img align="center" src="https://user-images.githubusercontent.com/87578160/211143629-dcfb0795-0a9d-4089-bf24-65f4ef791d63.png" alt="anushka_agarwal__" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/anushka_2002" target="blank"><img align="center" src="https://user-images.githubusercontent.com/87578160/211143655-28addd89-1161-478d-9db9-66526061e57c.png" alt="anushka_2002" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anushka_agarwal6" target="blank"><img align="center" src="https://user-images.githubusercontent.com/87578160/211143704-829a81cc-a4c7-41dd-b7f8-a92a7c0ff500.png" alt="anushka_agarwal6" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anushka_agarwal__" target="blank"><img align="center" src="https://user-images.githubusercontent.com/87578160/211143536-e073a7e3-ff0a-43d4-a07a-a1874a3f0b9c.png" alt="anushka_agarwal__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
