@@ -41,16 +41,12 @@
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/87578160/211747119-c6299c22-fa60-4d8b-bbb9-390e92f97a70.png" style="padding-right:10px;" />]
 [<img align="left" alt="Canva" width="26px" src="https://avatars.githubusercontent.com/u/2562356?s=200&v=4" style="padding-right:10px;" />]
 [<img align="left" alt="Figma" width="26px" src="https://user-images.githubusercontent.com/87578160/211142803-83fd4fd8-e97b-41d4-971d-0caafeae7f98.png" style="padding-right:10px;" />]
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://user-images.githubusercontent.com/87578160/211143201-d4d72c65-b4ab-43d1-b149-856d1f2e6db2.png" style="padding-right:10px;" />]
 
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushka120302&show_icons=true&locale=en&layout=compact" alt="anushka120302" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushka120302&show_icons=true&locale=en" alt="anushka120302" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushka120302&show_icons=true&locale=en" alt="anushka120302" /></p>
 
