@@ -46,8 +46,9 @@
 [<img align="left" alt="Figma" width="26px" src="https://user-images.githubusercontent.com/87578160/211142803-83fd4fd8-e97b-41d4-971d-0caafeae7f98.png" style="padding-right:10px;" />]
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://user-images.githubusercontent.com/87578160/211143201-d4d72c65-b4ab-43d1-b149-856d1f2e6db2.png" style="padding-right:10px;" />]
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushka120302&show_icons=true&locale=en" alt="anushka120302" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushka120302&show_icons=true&locale=en" alt="anushka120302" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushka120302&show_icons=true&locale=en" alt="anushka120302" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anushka120302&show_icons=true&locale=en" alt="anushka120302" /></p><br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka120302&" alt="anushka120302" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka120302&" alt="anushka120302" /></p>
