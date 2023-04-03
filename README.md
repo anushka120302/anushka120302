@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="1080" src="https://media.licdn.com/dms/image/D4D16AQGbIYQW9iVcfg/profile-displaybackgroundimage-shrink_350_1400/0/1673067489136?e=1678320000&v=beta&t=_6BWaZSeS4ScWqJcPT5DfOmxIQYBvK0JBl-Ppya2qXw">
+<img align="center" alt="coding" width="1080" src="https://media.licdn.com/dms/image/D4D16AQGbIYQW9iVcfg/profile-displaybackgroundimage-shrink_350_1400/0/1673067489136?e=1686182400&v=beta&t=m2FtKnBBhMWU87KbSC-pB5bK3nvYozS0XzF76z_-X0g">
 <h1 align="center">Hi 👋, I'm Anushka Agarwal</h1>
 <h3 align="center">I am a passionate Java Developer and a Software Engineer from India.</h3>
 
