@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka120302&label=Profile%20views&color=0e75b6&style=flat" alt="anushka120302" /> </p>
 
-- 📝 I regularly write quotes/poetries on [https://www.instagram.com/invites/contact/?i=zooalfccqe7w&utm_content=3lu5qut](https://www.instagram.com/invites/contact/?i=zooalfccqe7w&utm_content=3lu5qut)
+- 📝 I regularly write quotes/poetries on https://www.instagram.com/whenanushkadidsomethinggood/)
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **anushka.agarwal004@gmai.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1D-8e-fi1uCuKpwT_x2IenV4Y8Ba3_8g3/view?usp=sharing](https://drive.google.com/file/d/1D-8e-fi1uCuKpwT_x2IenV4Y8Ba3_8g3/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1D-8e-fi1uCuKpwT_x2IenV4Y8Ba3_8g3/view?usp=sharing
 
 - ⚡ Fun fact **I love to experiment with the code!!**
 
