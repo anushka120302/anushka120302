@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **anushka.agarwal004@gmai.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1D-8e-fi1uCuKpwT_x2IenV4Y8Ba3_8g3/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1m5Xnm4DGBCgwy9nuKED7f5MUT3IpsZYU/view?usp=sharing
 
 - ⚡ Fun fact **I love to experiment with the code!!**
 
