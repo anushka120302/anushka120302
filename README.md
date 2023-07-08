@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **anushka.agarwal004@gmai.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1m5Xnm4DGBCgwy9nuKED7f5MUT3IpsZYU/view?usp=sharing
-
 - ⚡ Fun fact **I love to experiment with the code!!**
 
 <h3 align="left">Connect with me:</h3>
