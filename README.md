@@ -33,24 +33,27 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
-[<img align="left" alt="Eclipse" width="32px" src="https://user-images.githubusercontent.com/87578160/211142931-26c2dbce-810f-45cc-a2c8-d8993e09d616.png" style="padding-right:10px;" />]
-[<img align="left" alt="JAVA" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="C" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="C++" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="PYTHON" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Pycharm" width="32px" src="https://user-images.githubusercontent.com/87578160/211143144-184dc302-81ee-48a4-aac3-d828f67615fb.png" style="padding-right:10px;" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-
-[<img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="32px" src="https://th.bing.com/th?id=OIP.yWNibBRepmC6fO7mZnicCgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" />]
-[<img align="left" alt="Canva" width="32px" src="https://avatars.githubusercontent.com/u/2562356?s=200&v=4" style="padding-right:10px;" />]
-[<img align="left" alt="Figma" width="32px" src="https://user-images.githubusercontent.com/87578160/211142803-83fd4fd8-e97b-41d4-971d-0caafeae7f98.png" style="padding-right:10px;" />]
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://user-images.githubusercontent.com/87578160/211143201-d4d72c65-b4ab-43d1-b149-856d1f2e6db2.png" style="padding-right:10px;" />]
-
+<p>
+<img align="left" alt="Eclipse" width="32px" src="https://user-images.githubusercontent.com/87578160/211142931-26c2dbce-810f-45cc-a2c8-d8993e09d616.png" style="padding-right:10px;" />
+<img align="left" alt="JAVA" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C++" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" /><img align="left" alt="PYTHON" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Pycharm" width="32px" src="https://user-images.githubusercontent.com/87578160/211143144-184dc302-81ee-48a4-aac3-d828f67615fb.png" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+</p>
+<br/>
+<br/>
+<p>
+<img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="32px" src="https://th.bing.com/th?id=OIP.yWNibBRepmC6fO7mZnicCgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" />
+<img align="left" alt="Canva" width="32px" src="https://avatars.githubusercontent.com/u/2562356?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Figma" width="32px" src="https://user-images.githubusercontent.com/87578160/211142803-83fd4fd8-e97b-41d4-971d-0caafeae7f98.png" style="padding-right:10px" />
+<img align="left" alt="Jupyter Notebook" width="26px" src="https://user-images.githubusercontent.com/87578160/211143201-d4d72c65-b4ab-43d1-b149-856d1f2e6db2.png" style="padding-right:10px;" />
+</p>
+<br/>
 <p><br/><img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushka120302&show_icons=true&locale=en" alt="anushka120302" />
   <br/><br/>
         <img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=anushka120302&show_icons=true&locale=en" alt="anushka120302" />
