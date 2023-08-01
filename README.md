@@ -40,7 +40,7 @@
 <img align="left" alt="C++" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:5px;" /><img align="left" alt="PYTHON" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:5px;" />
 <img align="left" alt="Pycharm" width="32px" src="https://user-images.githubusercontent.com/87578160/211143144-184dc302-81ee-48a4-aac3-d828f67615fb.png" style="padding-right:5px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:5px;" />
-<img align="left" alt="Visual Studio" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXUHcLoSZKmIMHRzSL5AOyvFUjjxkVyN99yH2hAUUUUpxoi1ffvey1hO4b7eknV_ytTSk&usqp=CAU"/> 
+<img align="center" alt="Visual Studio" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXUHcLoSZKmIMHRzSL5AOyvFUjjxkVyN99yH2hAUUUUpxoi1ffvey1hO4b7eknV_ytTSk&usqp=CAU"/> 
 </p>
 <br/>
 <br/>
