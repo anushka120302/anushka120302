@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/anushka_120302" target="blank"><img align="center" src="https://user-images.githubusercontent.com/87578160/211143570-87bbe4a1-71e7-4d72-91a2-c6053ddcd1d2.png" alt="anushka_120302" height="40" width="40" /></a>
   &nbsp;
-<a href="https://linkedin.com/in/anushka agarwal" target="blank"><img align="center" src="https://user-images.githubusercontent.com/87578160/211143593-a1993ae8-0928-4d21-b40d-5b803cf67aa1.png" alt="anushka agarwal" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/anushka-agarwal-965541204/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/87578160/211143593-a1993ae8-0928-4d21-b40d-5b803cf67aa1.png" alt="anushka agarwal" height="40" width="40" /></a>
   &nbsp;
 <a href="https://kaggle.com/anushka agarwal125" target="blank"><img align="center" src="https://user-images.githubusercontent.com/87578160/211143612-41eecd59-acdc-4d84-9b02-9a790c42efa6.png" alt="anushka agarwal125" height="40" width="40" /></a>
   &nbsp;
