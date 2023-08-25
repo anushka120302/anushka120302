@@ -12,9 +12,9 @@
 
 - 📫 How to reach me **anushka.agarwal004@gmail.com**
 
-- Do visit : **https://poetic-taiyaki-812ff8.netlify.app/**
+- 👀 Do visit : **https://poetic-taiyaki-812ff8.netlify.app/**
 
--⚡ Fun fact **I love to experiment with the code!!**
+- ⚡ Fun fact **I love to experiment with the code!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
