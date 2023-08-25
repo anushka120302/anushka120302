@@ -10,7 +10,9 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **anushka.agarwal004@gmai.com**
+- 📫 How to reach me **anushka.agarwal004@gmail.com**
+
+- Do visit : ****
 
 - ⚡ Fun fact **I love to experiment with the code!!**
 
@@ -60,3 +62,4 @@
         <img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=anushka120302&show_icons=true&locale=en" alt="anushka120302" />
   <br/><br/>
           <img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka120302&" alt="anushka120302" /></p>
+
