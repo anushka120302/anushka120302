@@ -1,8 +1,9 @@
-<img align="center" alt="coding" width="1080" src="https://media.licdn.com/dms/image/D4D16AQGbIYQW9iVcfg/profile-displaybackgroundimage-shrink_350_1400/0/1673067489136?e=1698278400&v=beta&t=0dDBB5HcVpvxxZRPT1zM47Jdg3ierGqlEndmnYQ4td0">
+<!-- <img align="center" alt="coding" width="1080" src="https://media.licdn.com/dms/image/D4D16AQGbIYQW9iVcfg/profile-displaybackgroundimage-shrink_350_1400/0/1673067489136?e=1698278400&v=beta&t=0dDBB5HcVpvxxZRPT1zM47Jdg3ierGqlEndmnYQ4td0"> -->
+
 <h1 align="center">Hi 👋, I'm Anushka Agarwal</h1>
 <h3 align="center">I am a passionate Java Developer and a Software Engineer from India.</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/90/d8/ea/90d8ea63611dc3af9720d02dc4e577d1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka120302&label=Profile%20views&color=0e75b6&style=flat" alt="anushka120302" /> </p>
 
@@ -12,7 +13,7 @@
 
 - 📫 How to reach me **anushka.agarwal004@gmail.com**
 
-- 👀 Do visit : **https://poetic-taiyaki-812ff8.netlify.app/**
+- 👀 Do visit : **https://anushka-agarwal.netlify.app/**
 
 - ⚡ Fun fact **I love to experiment with the code!!**
 
